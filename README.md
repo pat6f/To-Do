@@ -5,11 +5,11 @@
 #My goal is to complete at least five of the ten projects
 
 
-*BitTorrent Client
-*Node.js:Discord bot
-*A text editor
-*Space Invaders Game
-*JPG TO ASCII
-*bittorrent client
-*Hack Free fire
-*Top-Down Shooter Game
+#BitTorrent Client
+#Node.js:Discord bot
+#A text editor
+#Space Invaders Game
+#JPG TO ASCII
+#bittorrent client
+#Hack Free fire
+#Top-Down Shooter Game
